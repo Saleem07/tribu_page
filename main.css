@@ -1,0 +1,43 @@
+body{
+  background-color:whitesmoke;
+  font-size:62.5%;
+}
+#title{
+  text-align: center;
+  padding-top: 0.5em;
+  font-size:5em;
+  font-family: 'Oswald', sans-serif;
+}
+#img{
+  width:25%;
+  display: block;
+  margin:auto;
+  border-radius:10%;
+}
+#caption{
+  text-align: center;
+  margin-top: 10px;
+}
+.subhead{
+  font-size:3em;
+  font-family: 'Oswald', sans-serif;
+
+}
+.para{
+  font-size:1.5em;
+  font-family: 'Merriweather', serif;
+  line-height:1.5em;
+}
+.quote{
+  font-family:'Merriweather', serif;
+  font-size:1.7em;
+}
+footer{
+  width:100%;
+  margin-top: 1em;
+  height:1em;
+  display:inline-block;
+  text-align: center;
+  color:black;
+  
+}
